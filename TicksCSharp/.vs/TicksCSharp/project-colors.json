@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc5d2a70-8ebc-44f8-88ee-3816952a1e4b": {
+      "ProjectGuid": "bc5d2a70-8ebc-44f8-88ee-3816952a1e4b",
+      "DisplayName": "TicksCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

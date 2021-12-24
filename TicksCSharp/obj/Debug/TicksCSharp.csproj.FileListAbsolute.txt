@@ -1,0 +1,8 @@
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\bin\Debug\TicksCSharp.exe.config
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\bin\Debug\TicksCSharp.exe
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\bin\Debug\TicksCSharp.pdb
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\obj\Debug\TicksCSharp.csproj.AssemblyReference.cache
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\obj\Debug\TicksCSharp.csproj.SuggestedBindingRedirects.cache
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\obj\Debug\TicksCSharp.csproj.CoreCompileInputs.cache
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\obj\Debug\TicksCSharp.exe
+D:\Programming Projects\IdeaProjects\Visual Studio Projects (Non-Git)\TicksCSharp\TicksCSharp\obj\Debug\TicksCSharp.pdb
